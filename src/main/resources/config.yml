@@ -1,0 +1,8 @@
+# List of entity types that should be prevented from breeding
+# You can disable all breeding by setting the setting below to true
+disable-all: false
+disabled-entities:
+  - CHICKEN
+  - COW
+  - PIG
+  - SHEEP

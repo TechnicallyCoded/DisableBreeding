@@ -1,0 +1,9 @@
+name: DisableBreeding
+version: '${project.version}'
+main: com.tcoded.disablebreeding.DisableBreeding
+api-version: 1.19
+authors: [ TechnicallyCoded ]
+website: 'https://gcnt.net'
+commands:
+  disablebreeding:
+    permission: disablebreeding.command.reload
