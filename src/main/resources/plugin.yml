@@ -4,6 +4,7 @@ main: com.tcoded.disablebreeding.DisableBreeding
 api-version: 1.19
 authors: [ TechnicallyCoded ]
 website: 'https://gcnt.net'
+folia-supported: true
 commands:
   disablebreeding:
     permission: disablebreeding.command.reload
